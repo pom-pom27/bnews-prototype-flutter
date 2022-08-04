@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const Color kRed800 = Color(0xffC62828);
+const Color kRed600 = Color(0xffE53935);
+const Color kBlack = Color(0xff000000);
+const Color kPink600 = Color(0xffD81B60);
+const Color kOrange600 = Color(0xffFB8C00);
+const Color kAmber600 = Color(0xffFFB300);
+const Color kTeal600 = Color(0xff00897B);
+const Color kBlue600 = Color(0xff1E88E5);
+const Color kBlue200 = Color(0xff90CAF9);
+const Color kBlueLight600 = Color(0xff039BE5);
+const Color kBlueGrey700 = Color(0xff455A64);
+const Color kBlueGrey600 = Color(0xff546E7A);
+const Color kBlueGrey400 = Color(0xff78909C);
+const Color kBlueGrey300 = Color(0xff90A4AE);
+const Color kBlueGrey200 = Color(0xffB0BEC5);
+const Color kBlueGrey100 = Color(0xffCFD8DC);
+const Color kGreen600 = Color(0xff43A047);
+const Color kGreen200 = Color(0xFFD7ECD8);

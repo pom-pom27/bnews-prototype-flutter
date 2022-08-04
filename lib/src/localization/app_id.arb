@@ -1,0 +1,46 @@
+{
+  "appTitle": "SPBE",
+
+  "appDescription": "Portal pelayanan public",
+
+  "readmore": "Baca selengkapnya",
+
+  "ppid_menu1": "Statistik",
+ 
+  "ppid_menu2": "Regulasi",
+  
+  "ppid_menu3": "Pengaduan",
+  
+  "ppid_menu4": "Permohonan",
+
+  "informasi_berkala": "Informasi Berkala",
+  "lihat_selengkapnya": "Lihat selengkapnya",
+  "search_ppid": "Cari...",
+  "ubah_profil": "Ubah Profil",
+  "pengaturan": "Pengaturan",
+  "aktifitas": "Aktivitas",
+  "pertanyaan": "Pertanyaan",
+  
+  "search_infografik": "Judul, atau kategori podcast",
+  "lokasi": "Lokasi",
+  "pilih_bahasa": "Pilih bahasa",
+  "koleksi_saya": "Koleksi saya",
+  "notifikasi": "Notifikasi",
+  "biometric": "Biometric Touch ID",
+  "tentang_kami": "Tentang kami",
+  "catatan_rilis": "Catatan Rilis",
+  "kontak_kami": "Kontak kami",
+  "syarat_ketentuan": "Syarat & Ketentuan",
+  "kebijakan_privasi": "Kebijakan & pivasi",
+  "hak_intelektual": "Hak Intelektual",
+  "keluar": "Keluar",
+  "search_radio_hint": "Podcast title, category or station",
+  "subtitle_radio_page": "LAYANAN RADIO WEB BABINKUM TNI",
+  "radio_avaliable_category": "KATEGORI TERSEDIA",
+  "radio_upcoming_podcast": "YANG AKAN DATANG",
+  "radio_popular_episode": "EPISODE POPULER",
+  "radio_subscribe_station": "STASIUN BERLANGGANAN",
+  "radio_playlist": "DERETAN PUTARAN",
+  "radio_latest_podcast": "PODCAST TERBARU",
+  "memuat_lagi": "Ketuk untuk memuat lagi"
+}

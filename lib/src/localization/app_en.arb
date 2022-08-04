@@ -1,0 +1,46 @@
+{
+  "appTitle": "SPBE",
+  
+  "appDescription": "Public services portal",
+  
+  "readmore": "Read more",
+  
+  "ppid_menu1": "Statistics",
+  
+  "ppid_menu2": "Regulation",
+  
+  "ppid_menu3": "Pleading",
+  
+  "ppid_menu4": "Case",
+  
+  "informasi_berkala": "Periodic Information",
+  "lihat_selengkapnya": "See more",
+  "search_ppid": "Search something...",
+  "ubah_profil": "Change Profile",
+  "pengaturan": "Settings",
+  "aktifitas": "Activity",
+  "pertanyaan": "question",
+
+  "search_infografik": "Title, or category of podcast",
+  "lokasi": "Location",
+  "pilih_bahasa": "Select language",
+  "koleksi_saya": "My collection",
+  "notifikasi": "Notifications",
+  "biometric": "Biometric Touch ID",
+  "tentang_kami": "About us",
+  "catatan_rilis": "Release Notes",
+  "kontak_kami": "Our contacts",
+  "syarat_ketentuan": "Terms & Conditions",
+  "kebijakan_privasi": "Policy & privacy",
+  "hak_intelektual": "Intellectual Rights",
+  "keluar": "Exit",
+  "search_radio_hint": "Podcast title, category or station",
+  "subtitle_radio_page": "TNI BABINKUM WEB RADIO SERVICE",
+  "radio_avaliable_category": "AVALIABLE CATEGORY",
+  "radio_upcoming_podcast": "UPCOMING PODCAST",
+  "radio_popular_episode": "POPULAR PODCAST",
+  "radio_subscribe_station": "STATION SUBSCRIBED",
+  "radio_playlist": "PLAYLIST",
+  "radio_latest_podcast": "LATEST PODCAST",
+  "memuat_lagi": "Tap to load more."
+}

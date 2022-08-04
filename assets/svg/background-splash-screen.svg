@@ -1,0 +1,26 @@
+<svg width="414" height="896" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="a" x1="207" y1="0" x2="207" y2="896" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E53935" />
+            <stop offset="1" stop-color="#C62828" />
+        </linearGradient>
+        <linearGradient id="b" x1="316" y1="-52.5" x2="432.981" y2="696.536" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F44336" />
+            <stop offset="1" stop-color="#D32F2F" />
+        </linearGradient>
+        <linearGradient id="c" x1="347" y1="555.5" x2="237.315" y2="844.363" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F44336" />
+            <stop offset="1" stop-color="#D32F2F" />
+        </linearGradient>
+    </defs>
+    <path fill="url(#a)" d="M0 0h414v896H0z" />
+    <g opacity=".8">
+        <path
+            d="M158.924 255.473C201.57 113.153 309.213 25.858 357.704 0H414v609.722c-68.751 5.689-114.585 124.634-219.206 179.969C111.097 833.959 30.058 842.957 0 841.923V630.408c48.325-28.443 105.617-197.035 158.924-374.935Z"
+            fill="url(#b)" />
+        <path
+            d="M156.948 747.075C96.986 778.659 27.332 764.9 0 754.072V896h414V614.142c-132.802-18.99-182.1 93.453-257.052 132.933Z"
+            fill="url(#c)" />
+    </g>
+
+</svg>

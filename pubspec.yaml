@@ -1,0 +1,79 @@
+name: pp_spbe
+description: A new Flutter project.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+  font_awesome_flutter: ^9.1.0
+  intl: ^0.17.0
+  logger: ^1.1.0
+  routemaster: ^0.9.5
+
+dev_dependencies:
+  build_runner: null
+  flutter_gen_runner: null
+
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_gen:
+  output: lib/gen/ # Optional (default: lib/gen/)
+  line_length: 80 # Optional (default: 80)
+
+  # Optional
+  integrations:
+    flutter_svg: true
+
+flutter:
+  uses-material-design: true
+
+  #import
+  # import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+  #Pemakaian
+  # AppLocalizations.of(context)!.readme
+  #Build
+  # flutter packages pub run build_runner build
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/svg/
+
+    - assets/icons/
+    - assets/icons/Advocation/
+    - assets/icons/BottomNav/
+    - assets/icons/Document/
+    - assets/icons/Form/
+    - assets/icons/LegalSupport/
+    - assets/icons/Menus/
+    - assets/icons/Nav/
+    - assets/icons/Profile/
+    - assets/icons/Radio/
+
+    - assets/icons/Radio/Category/
+
+    - assets/images/Radio/
+    - assets/images/Radio/Channel/
+    - assets/images/Radio/Episode/
+    - assets/images/Radio/Event/
+
+    - assets/images/
+    - assets/images/Article/
+    - assets/images/Infographic/
+    - assets/images/Legal Support/
+    - assets/images/Portal/
